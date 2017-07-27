@@ -1,0 +1,9 @@
+c:\users\prampatel\documents\visual studio 2015\Projects\GitTesting\GitTesting\bin\Debug\GitTesting.dacpac
+c:\users\prampatel\documents\visual studio 2015\Projects\GitTesting\GitTesting\bin\Debug\GitTesting.dll
+c:\users\prampatel\documents\visual studio 2015\Projects\GitTesting\GitTesting\bin\Debug\GitTesting.pdb
+c:\users\prampatel\documents\visual studio 2015\Projects\GitTesting\GitTesting\obj\Debug\Model.xml
+c:\users\prampatel\documents\visual studio 2015\Projects\GitTesting\GitTesting\obj\Debug\refactor.xml
+c:\users\prampatel\documents\visual studio 2015\Projects\GitTesting\GitTesting\obj\Debug\postdeploy.sql
+c:\users\prampatel\documents\visual studio 2015\Projects\GitTesting\GitTesting\obj\Debug\predeploy.sql
+c:\users\prampatel\documents\visual studio 2015\Projects\GitTesting\GitTesting\obj\Debug\GitTesting.dll
+c:\users\prampatel\documents\visual studio 2015\Projects\GitTesting\GitTesting\obj\Debug\GitTesting.pdb
